@@ -1,0 +1,1 @@
+This is a jQuery plugin that takes a little different view on client side validation.  The intent of this plugin is that you can add validators of different types to any element that supports the jQuery.val function.  It does not attempt to deal with the error presentation in anyway except that it can mark the element with an error CSS class and provides event hooks.
